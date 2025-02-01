@@ -1,8 +1,8 @@
 # PHYS403
 ## Modern Statistics and the Exploration of Large Data Sets
 
-Basic Python code examples for PHY 403.
+My homework solutions for the course Physics 403 at the University of Rochester. Original repository for the class with examplesforked from Segev BenZvi and Chris Marhsall.
 
-Example notebooks can be found in the nb subfolder. Standalone Python scripts are located in the scripts subfolder.
+Example notebooks can be found in the nb subfolder. Standalone Python scripts are located in the scripts subfolder. My homework solutions found in the homework subfolder.
 
-(c) 2023, Department of Physics and Astronomy, University of Rochester.
+(c) 2025, Department of Physics and Astronomy, University of Rochester.
